@@ -23,6 +23,7 @@ https://online-resume-builder-seven.vercel.app/
 
 ---
 
+
 ## 📂 Project Structure
 ├── index.html # Main form for entering details
 ├── resume.html # Generated resume output page
